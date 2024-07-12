@@ -5,12 +5,12 @@ You can run the file in vscode and pycharm
 If the library of the code isn't installed, you can easily installed it by:
 
 > pip install pandas
-> pip install seaborn
-> pip install matplotlib
-> pip install scikit-learn
-> pip install nltk
-> pip install faker
-> pip install string
+>> pip install seaborn
+>>> pip install matplotlib
+>>>> pip install scikit-learn
+>>>>> pip install nltk
+>>>>>> pip install faker
+>>>>>>> pip install string
 
 The code is divided into these things:
 
